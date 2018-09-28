@@ -9,6 +9,9 @@ using the Spark framework.
 The Spark version is slightly different as it creates three output files - one for each reading frame. While the MapReduce
 program only creates one output.
 
+Both programs are run using [MapR's Sandbox for Hadoop](https://mapr.com/products/mapr-sandbox-hadoop/download/).
+
+
 
 ### Credits
 This program was an assignment for the CS185C: Solving Big Data Problems course taught by James Casaletto at 
