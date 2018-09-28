@@ -11,6 +11,5 @@ program only creates one output.
 
 
 ### Credits
-
 This program was an assignment for the CS185C: Solving Big Data Problems course taught by James Casaletto at 
 San Jose State University.
