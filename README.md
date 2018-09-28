@@ -10,7 +10,7 @@ The Spark version is slightly different as it creates three output files - one f
 program only creates one output.
 
 
-## Credits
+### Credits
 
 This program was an assignment for the CS185C: Solving Big Data Problems course taught by James Casaletto at 
 San Jose State University.
